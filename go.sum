@@ -1,0 +1,5 @@
+github.com/tunabay/go-bitarray v1.3.0 h1:St/CCJmC5cDrKOaof4+vnwWNfWliEe9w/1Sv06J0L9k=
+github.com/tunabay/go-bitarray v1.3.0/go.mod h1:U/faBX9VoWy8fwDD0xwrh1gCZ59hXohibZairL5gC3A=
+gopkg.in/check.v1 v0.0.0-20161208181325-20d25e280405/go.mod h1:Co6ibVJAznAaIkqp8huTwlJQCZ016jof/cbN4VW5Yz0=
+gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b h1:h8qDotaEPuJATrMmW04NCwg7v22aHH28wwpauUhK9Oo=
+gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b/go.mod h1:K4uyk7z7BCEPqu6E+C64Yfv1cQ7kz7rIZviUmN+EgEM=
