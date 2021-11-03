@@ -1,5 +1,5 @@
 module github.com/tunabay/go-bmppath
 
-go 1.16
+go 1.17
 
-require github.com/tunabay/go-bitarray v1.3.0
+require github.com/tunabay/go-bitarray v1.3.1
